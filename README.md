@@ -1,11 +1,10 @@
-# ⚡[Portfolio](https://biwashi.github.io/Portfolio/)
+## ⚡[Portfolio](https://biwashi.github.io/Portfolio/)
 [![](https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
-⚡[Portfolio](https://biwashi.github.io/Portfolio/)
 
 <!--
 **BIwashi/BIwashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

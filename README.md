@@ -3,11 +3,7 @@
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
             <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
             <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
-            <iframe id="inline-frame"
-
-
-  src="https://biwashi.github.io/Portfolio/">
-</iframe>
+            <iframe id="inline-frame" width: 100% src="https://biwashi.github.io/Portfolio/"></iframe>
             
             </div>
             

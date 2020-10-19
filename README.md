@@ -1,6 +1,8 @@
 ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/)
 <div align="center">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+            <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
+            <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
             </div>
             
 [![](https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

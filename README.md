@@ -1,6 +1,5 @@
-## ⚡[Portfolio](https://biwashi.github.io/Portfolio/)
+<!-- ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/) -->
 
-<br>
 
 <div align="center">
 <h1>THIS IS MY BLOG >> <a href= "https://biwashi.github.io/blog/">✨✨✨✨</a></h1>

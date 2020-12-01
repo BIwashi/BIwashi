@@ -6,11 +6,10 @@
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 </div>
 
-
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
 <div align="center">
-<p>THIS IS MY BLOG >> <a href= "https://biwashi.github.io/blog/">✨✨✨✨</a></p>
+<h1>THIS IS MY BLOG >> <a href= "https://biwashi.github.io/blog/">✨✨✨✨</a></h1>
 </div>
 
 <!--

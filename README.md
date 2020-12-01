@@ -1,5 +1,12 @@
 ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/)
 
+<br>
+
+<div align="center">
+<h1>THIS IS MY BLOG >> <a href= "https://biwashi.github.io/blog/">✨✨✨✨</a></h1>
+<h1>THIS IS MY PROFILE SLIDES >> <a href= "https://biwashi.github.io/Portfolio/">✨✨✨✨</a></h1>
+</div>
+
 <div align="center">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
@@ -8,10 +15,6 @@
 
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
-<div align="center">
-<h1>THIS IS MY BLOG >> <a href= "https://biwashi.github.io/blog/">✨✨✨✨</a></h1>
-<h1>THIS IS MY PROFILE SLIDES >> <a href= "https://biwashi.github.io/Portfolio/">✨✨✨✨</a></h1>
-</div>
 
 <!--
 **BIwashi/BIwashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,8 +2,8 @@
 
 
 <div align="center">
-<a style="color:red" href= "https://biwashi.github.io/blog/">THIS IS MY BLOG</a>
-<h1>THIS IS MY PROFILE SLIDES >> <a href= "https://biwashi.github.io/Portfolio/">✨✨✨✨</a></h1>
+  <h1><a href= "https://biwashi.github.io/blog/">THIS IS MY BLOG</a></h1>
+<h1><a href= "https://biwashi.github.io/Portfolio/">THIS IS MY PROFILE SLIDES</a></h1>
 </div>
 
 <div align="center">

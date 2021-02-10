@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h1>THIS IS MY BLOG >> <a href= "https://biwashi.github.io/blog/">✨✨✨✨</a></h1>
+<a style="color:red" href= "https://biwashi.github.io/blog/">THIS IS MY BLOG</a>
 <h1>THIS IS MY PROFILE SLIDES >> <a href= "https://biwashi.github.io/Portfolio/">✨✨✨✨</a></h1>
 </div>
 

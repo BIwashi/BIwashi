@@ -2,7 +2,7 @@
 
 ## Shota Iwami
 
-- 🔭 I’m currently working on [aumo, Inc]()https://aumo.co.jp/.
+- :computer: I’m currently working on [aumo, Inc]()https://aumo.co.jp/.
 - 🌱 I’m currently learning **UAV Traffic Management, Web Development.**.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -3,6 +3,18 @@
 
 # Shota Iwami
 
+<a href="https://twitter.com/B_Sardine">
+<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" height="20"></img> 
+</a>
+
+<a href="https://www.youtube.com/channel/UCAU_H_MlThRRhmw91V9g30A">
+<img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" height="20"></img> 
+</a>
+
+<a href="https://qiita.com/BIwashi">
+  <img width="20px" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" />
+</a>
+
 <div align="center">
 
 ![](https://github.com/BIwashi/BIwashi/blob/master/kirby.gif?raw=true)
@@ -16,20 +28,6 @@
 - :pen: Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/)
 
 
-<a href="https://twitter.com/B_Sardine">
-<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" height="20"></img> 
-</a>
-
-<a href="https://www.youtube.com/channel/UCAU_H_MlThRRhmw91V9g30A">
-<img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" height="20"></img> 
-</a>
-
-<a href="https://qiita.com/BIwashi">
-  <img width="20px" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" />
-</a>
-
-
----
 
 <div align="center">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg">

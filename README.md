@@ -1,5 +1,7 @@
 <!-- ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/) -->
 
+<div class="dot">
+
 ## Shota Iwami
 
 - :computer: I’m currently working on [aumo, Inc]()https://aumo.co.jp/.
@@ -11,7 +13,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center" class="dot">
 
+
+</div>
 
 <div align="center">
   <h1><a href= "https://biwashi.github.io/blog/"> >> THIS IS MY BLOG << </a></h1>
@@ -34,6 +39,16 @@
   
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
+</div>
+
+
+<style>
+.dot{
+  background-image: url("night_city.gif");
+  background-color:rgba(0,0,0,0.8);
+  background-blend-mode:darken;
+}
+</style>
 
 <!--
 **BIwashi/BIwashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

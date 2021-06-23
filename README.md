@@ -1,6 +1,6 @@
 <!-- ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/) -->
 
-<div class="dot">
+<div style="background-image: url(night_city.gif); background-color:rgba(0,0,0,0.8); background-blend-mode:darken;">
 
 ## Shota Iwami
 
@@ -40,7 +40,6 @@
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
 </div>
-
 
 <style>
 .dot{

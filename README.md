@@ -12,8 +12,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
 
-<iframe src="https://gifmagazine.net/embed/glp/33127" width="300" height="71" frameBorder="0" class="gifmagazine-embed" allowFullScreen></iframe><p><a href="https://gifmagazine.net/post_images/33127" target="_blank">via GIFMAGAZINE</a></p>
+![](https://github.com/BIwashi/BIwashi/blob/master/kirby.gif?raw=true)
+
+</div>
 
 <img src="https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true"  height="120">
 </img>

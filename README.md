@@ -29,6 +29,7 @@
 </a>
 
 
+---
 
 <div align="center">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg">

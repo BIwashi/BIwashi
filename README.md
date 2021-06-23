@@ -12,10 +12,12 @@
 - :computer: I’m currently working on [aumo, Inc]()https://aumo.co.jp/.
 - <img src="https://cdn.worldvectorlogo.com/logos/webdev-1.svg" height="12"></img> I’m currently learning **UAV Traffic Management, Web Development.**.
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)
+- :pen: :blog: 😄 Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/)
 - ⚡ Fun fact: ...
 
+
+<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" height="12"></img> 
 
 <img src="https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true"  height="120">
 </img>

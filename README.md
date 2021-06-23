@@ -13,8 +13,12 @@
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BIwashi&theme=onedark&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=BIwashi&theme=onedark&row=1&column=7&no-frame=true"/>
+<div align="center">
+  
+  
   
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 

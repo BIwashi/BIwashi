@@ -1,6 +1,5 @@
 <!-- ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/) -->
 
-<div style="background-image: url(https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true); background-color:rgba(0,0,0,0.8); background-blend-mode:darken;">
 
 ## Shota Iwami
 
@@ -13,10 +12,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center" class="dot">
 
+<iframe src="https://gifmagazine.net/embed/glp/33127" width="300" height="71" frameBorder="0" class="gifmagazine-embed" allowFullScreen></iframe><p><a href="https://gifmagazine.net/post_images/33127" target="_blank">via GIFMAGAZINE</a></p>
 
-</div>
+<img src="https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true"  height="120">
+</img>
 
 <div align="center">
   <h1><a href= "https://biwashi.github.io/blog/"> >> THIS IS MY BLOG << </a></h1>
@@ -39,15 +39,7 @@
   
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
-</div>
 
-<style>
-.dot{
-  background-image: url("night_city.gif");
-  background-color:rgba(0,0,0,0.8);
-  background-blend-mode:darken;
-}
-</style>
 
 <!--
 **BIwashi/BIwashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

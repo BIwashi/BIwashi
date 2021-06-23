@@ -1,7 +1,13 @@
 <!-- ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/) -->
 
 
-## Shota Iwami
+# Shota Iwami
+
+<div align="center">
+
+![](https://github.com/BIwashi/BIwashi/blob/master/kirby.gif?raw=true)
+
+</div>
 
 - :computer: I’m currently working on [aumo, Inc]()https://aumo.co.jp/.
 - 🌱 I’m currently learning **UAV Traffic Management, Web Development.**.
@@ -12,11 +18,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
-
-![](https://github.com/BIwashi/BIwashi/blob/master/kirby.gif?raw=true)
-
-</div>
 
 <img src="https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true"  height="120">
 </img>

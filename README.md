@@ -1,6 +1,6 @@
 <!-- ## ⚡[Portfolio](https://biwashi.github.io/Portfolio/) -->
 
-<div style="background-image: url(night_city.gif); background-color:rgba(0,0,0,0.8); background-blend-mode:darken;">
+<div style="background-image: url(https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true); background-color:rgba(0,0,0,0.8); background-blend-mode:darken;">
 
 ## Shota Iwami
 

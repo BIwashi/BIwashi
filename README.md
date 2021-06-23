@@ -6,14 +6,14 @@
 <h1><a href= "https://biwashi.github.io/Portfolio/"> >> THIS IS MY PROFILE SLIDES << </a></h1>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BIwashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 </div>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BIwashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)

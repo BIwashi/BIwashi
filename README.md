@@ -13,8 +13,10 @@
 </div>
 
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=BIwashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
+  
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
 

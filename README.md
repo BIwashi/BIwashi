@@ -13,19 +13,21 @@
 - <img src="https://cdn.worldvectorlogo.com/logos/webdev-1.svg" height="12"></img> I’m currently learning **UAV Traffic Management, Web Development.**.
 
 - 💬 How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)
-- :pen: :blog: 😄 Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/)
-- ⚡ Fun fact: ...
+- :pen: Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/)
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" height="12"></img> 
+<a href="https://twitter.com/B_Sardine">
+<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" height="20"></img> 
+</a>
 
-<img src="https://github.com/BIwashi/BIwashi/blob/master/night_city.gif?raw=true"  height="120">
-</img>
+<a href="https://www.youtube.com/channel/UCAU_H_MlThRRhmw91V9g30A">
+<img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" height="20"></img> 
+</a>
 
-<div align="center">
-  <h1><a href= "https://biwashi.github.io/blog/"> >> THIS IS MY BLOG << </a></h1>
-<h1><a href= "https://biwashi.github.io/Portfolio/"> >> THIS IS MY PROFILE SLIDES << </a></h1>
-</div>
+<a href="https://qiita.com/BIwashi">
+  <img width="20px" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" />
+</a>
+
 
 
 <div align="center">

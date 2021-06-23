@@ -3,6 +3,7 @@
 
 # Shota Iwami
 
+<div align="center">
 <a href="https://www.linkedin.com/in/shota-iwami-biwashi/">
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="25"></img> 
 </a>
@@ -26,6 +27,8 @@
 <a href="https://qiita.com/BIwashi">
   <img width="25px" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" />
 </a>
+</div>
+
 
 
 

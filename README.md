@@ -12,6 +12,9 @@
 <img src = "https://raw.githubusercontent.com/BIwashi/BIwashi/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
 </div>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BIwashi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=BIwashi&color=green)
 
 

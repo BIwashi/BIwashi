@@ -38,7 +38,7 @@
 
 </div>
 
-- :computer: I’m currently working on [aumo, Inc]()https://aumo.co.jp/.
+- :computer: I’m currently working on [aumo, Inc](https://aumo.co.jp/).
 - <img src="https://cdn.worldvectorlogo.com/logos/webdev-1.svg" height="12"></img> I’m currently learning **UAV Traffic Management, Web Development.**.
 
 - 💬 How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)

@@ -39,7 +39,7 @@
 </div>
 
 - 💬　How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)
-- :pen:　Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/)
+<!-- - :pen:　Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/) -->
 
 
 

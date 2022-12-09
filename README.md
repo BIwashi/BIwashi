@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.facebook.com/jazzy.yuzax">
-<img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" height="25"></img> 
+<img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" height="25"></img> 
 </a>
 
 <a href="https://www.youtube.com/channel/UCAU_H_MlThRRhmw91V9g30A">
@@ -27,6 +27,11 @@
 <a href="https://qiita.com/BIwashi">
   <img width="25px" src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" />
 </a>
+
+<a href="https://zenn.dev/biwashi">
+  <img width="25px" src="https://zenn.dev/apple-touch-icon.png" />
+</a>
+
 </div>
 
 

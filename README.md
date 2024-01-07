@@ -16,10 +16,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" height="25"></img> 
 </a>
 
-<a href="https://www.youtube.com/channel/UCAU_H_MlThRRhmw91V9g30A">
-<img src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" height="25"></img> 
-</a>
-
 <a href="https://youtrust.jp/users/shota_iwami">
 <img src="https://storage.googleapis.com/studio-design-assets/projects/bXqzgynyaD/s-404x334_aa72d8b4-83bf-4694-8c5d-b03699448661.svg" height="25"></img> 
 </a>

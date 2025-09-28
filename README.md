@@ -39,7 +39,8 @@
 
 </div>
 
-- 💬　How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)
+- 💬 How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)
+- 🍱 Links: [bento.me](https://bento.me/biwashi)
 <!-- - :pen:　Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/) -->
 
 

@@ -40,7 +40,7 @@
 </div>
 
 - 💬 How to reach me: [here](https://github.com/BIwashi/BIwashi/issues)
-- 🍱 Links: [bento.me](https://bento.me/biwashi)
+- 🍱 Links: [bento]([https://bento.me/biwashi](https://bentome.pages.dev/))
 <!-- - :pen:　Blog: [MY NEW GEAR | IWASHI Blog](https://biwashi.github.io/blog/) -->
 
 
